@@ -1,61 +1,71 @@
-# My Notes — [REPLACE WITH YOUR FULL NAME]
+Here's a polished and well-structured version of your assignment while keeping your learning points intact.
 
-> **How to use this file:**
-> 1. **Download** this file to your computer — click the **Raw** button on GitHub, then right-click and *Save As*, OR click the download icon at the top-right of the file view
-> 2. **Rename** the downloaded file — replace `yourname` with your actual first and last name in lowercase, separated by hyphens, e.g. `microsoft-entra-oyimafu-emmanuel.md`
-> 3. **Open** the renamed file in any text editor (Notepad, VS Code, TextEdit) and fill in your notes below
-> 4. **Upload** your file to GitHub — go into this session folder on your forked repo, click **Add file → Upload files**, drag in your completed file, then click **Commit changes**
-> 5. **Open a Pull Request** back to the main repo — the facilitator will review your notes before merging
-
----
+# My Notes — Olajire Zainab Adeola
 
 ## Key Concepts I Learned
 
-<!-- Write the main ideas covered in today's session -->
+One of the most important lessons I learned is that **people understand better through what they see than what they hear**, which highlights the importance of visual learning. I also learned that people give their maximum attention when information is presented clearly and at the right time.
 
--
--
--
+The key topics covered during the session included:
+
+* Class management
+* Creating a GitHub account
+* Creating and managing GitHub repositories
+* Collaborating on GitHub
+* Forking a repository
 
 ---
 
 ## Lab / Hands-On Work
 
-<!-- Describe what you did in the lab. Include steps, commands, or screenshots descriptions -->
+### What I Did
 
-### What I did
+During the practical session, I:
 
+* Created my GitHub account.
+* Created a repository on GitHub containing a brief summary of the Day 1 class on Identity & Governance.
+* Downloaded the class file template from the GitHub Onboarding Workshop repository.
+* Modified the template title as instructed.
+* Forked the repository to my GitHub account.
+* Uploaded and edited the template to document my learning experience using the provided guidelines.
 
-### What happened / Result
+### Results
 
+The practical session was engaging, enjoyable, and gave me hands-on experience using GitHub. I successfully completed the required tasks and gained confidence in navigating the GitHub platform.
 
-### Challenges I faced
+### Challenges I Faced
 
+I encountered a challenge when trying to paste an image copied from a website into my GitHub repository while practicing repository creation. I later realized that GitHub requires images to be uploaded or linked correctly instead of simply pasting them.
 
 ---
 
 ## My Takeaways
 
-<!-- What was most valuable to you personally from this session? -->
+The most valuable takeaway from this session was learning how to:
 
+* Create and manage a GitHub repository.
+* Fork repositories for collaboration.
+* Edit files and commit changes.
+* Use GitHub as a version control and collaboration platform.
 
 ---
 
 ## Questions I Still Have
 
-<!-- Anything you want to follow up on or ask the mentor -->
-
--
--
+* How can I properly add images to a GitHub repository so they display correctly in a README file?
+* What are Git branches, and when should I use them instead of working directly on the main branch?
 
 ---
 
 ## Resources I Found Useful
 
-<!-- Any links, docs, or Microsoft Learn modules you found helpful -->
-
--
+* GitHub Onboarding Workshop Template
+* GitHub Documentation
+* Class materials and instructor demonstrations
 
 ---
 
-*Submitted by: [Your Full Name] · [Your GitHub username]*
+**Submitted by:** Olajire Zainab Adeola
+**GitHub Username:** **ZainabOlajire**
+
+This version is grammatically correct, professionally organized, and suitable for submission.
